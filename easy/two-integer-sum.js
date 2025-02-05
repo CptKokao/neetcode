@@ -1,4 +1,4 @@
-https://neetcode.io/problems/two-integer-sum
+https://neetcode.io/problems/is-palindrome
 
 class Solution {
     /**
